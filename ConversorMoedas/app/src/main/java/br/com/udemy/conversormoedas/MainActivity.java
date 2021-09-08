@@ -57,18 +57,18 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 // Toast.LENGTH_LONG - mensagem que dura mais tempo
                 Toast.makeText(this, this.getString(R.string.informe_valor), Toast.LENGTH_LONG).show();
             } else {
-
                 // Converte o valor informado em Double
                 Double real = Double.valueOf(value);
 
                 //Converte o valor informado em Decimal
-                BigDecimal realB = new BigDecimal(real);
+                //BigDecimal realB = new BigDecimal(real);
 
-                // Converte valores - considerando um valor fixo de dolar (U$ 4,00) e euro (€ 5,00)
+                // Converte valores - considerando um valor fixo de dolar (U$ 5,00) e euro (€ 6,00)
                 // String.format("%2.f") -> ira considerar 2 casas decimais
-                this.mViewHolder.textDolar.setText(realB.divide(new BigDecimal(4)).setScale(2, RoundingMode.HALF_EVEN).toString());
-                this.mViewHolder.textEuro.setText(realB.divide(new BigDecimal(5)).setScale(2, RoundingMode.HALF_EVEN).toString());
-
+                //this.mViewHolder.textDolar.setText(realB.divide(new BigDecimal(5)).setScale(2, RoundingMode.HALF_EVEN).toString());
+                //this.mViewHolder.textEuro.setText(realB.divide(new BigDecimal(6)).setScale(2, RoundingMode.HALF_EVEN).toString());
+                this.mViewHolder.textDolar.setText(String.format("%.2f", real / 5));
+                this.mViewHolder.textEuro.setText(String.format("%.2f", real / 6));
             }
         }
     }
