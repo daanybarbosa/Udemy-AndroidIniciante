@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d3a46f4-2673-4604-bf87-2f9130c5b37c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/.idea/dictionaries/daniele.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/app/src/androidTest/java/br/com/udemy/conversormoedas/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/app/src/main/java/br/com/udemy/conversormoedas/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/app/src/test/java/br/com/udemy/conversormoedas/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/ConversorMoedas/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/.idea/dictionaries/daniele.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/androidTest/java/br/com/udemy/festafimdeano/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/ic_launcher-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/java/br/com/udemy/festafimdeano/constant/FimDeAnoConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/java/br/com/udemy/festafimdeano/data/SecurityPreferences.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/java/br/com/udemy/festafimdeano/view/DetailsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/java/br/com/udemy/festafimdeano/view/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/res/drawable/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/res/drawable/button_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/res/layout/activity_details.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/res/values/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/app/src/test/java/br/com/udemy/festafimdeano/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/FestaFimDeAno/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bkabla/teste" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1xm8rkbpTSUW3DeGPkZhhvdIFP7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d3a46f4-2673-4604-bf87-2f9130c5b37c" name="Default Changelist" comment="" />
+      <created>1630949103356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630949103356</updated>
+    </task>
+    <servers />
+  </component>
+</project>
