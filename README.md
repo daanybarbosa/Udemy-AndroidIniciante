@@ -4,7 +4,7 @@ Este repositório é referente ao curso da [DevMasterTeam](http://devmasterteam.
 - [Desenvolvedor Android Iniciante](https://www.udemy.com/desenvolvedor-android-iniciante). <br><br><br>
 
 ### **Conversor de moedas**
-Nesta aplicação "Conversor de moedas", foi desenvolvida para receber um valor em Reais e converter em Dólar e Euro, considerando uma cotação mais próxima da realidade atual, considerei o valor em dólar US$ 5,00 e o valor em euro € 6,00. <br>
+Nesta aplicação "Conversor de moedas", foi desenvolvida para receber um valor em Reais e converter em Dólar e Euro, considerando uma cotação mais próxima da realidade atual, considerei o valor em dólar US$ 5,00 e o valor em euro € 6,00. <br><br>
 Nesta aplicação fazemos a criação do projeto do zero e a explicação da estrutura do Android Studio e arquivos criados. Passamos para manipulação de eventos de click e elementos de interface, alteração de layout e compreensão do LinearLayout usado para criar a aplicação. <br><br>
 
 ##### **Imagens da aplicação**
@@ -27,8 +27,8 @@ Nesta aplicação fazemos a criação do projeto do zero e a explicação da est
 
 ### **Festa de fim de ano**
 
-Nesta aplicação "Festa de Fim de Ano", foi desenvolvida para calcular os dias restantes até o fim do ano, e será capaz de confirmar ou não a presença na festa de fim de ano. <br>
-Realizamos a criação de mais de uma Activity para trabalhar com o conceito de navegação e definimos qual das activities será usada por padrão pelo Android. <br> 
+Nesta aplicação "Festa de Fim de Ano", foi desenvolvida para calcular os dias restantes até o fim do ano, e será capaz de confirmar ou não a presença na festa de fim de ano. <br><br>
+Realizamos a criação de mais de uma Activity para trabalhar com o conceito de navegação e definimos qual das activities será usada por padrão pelo Android. <br><br>
 Fazemos também a manipulação de elementos de interface, entendimento de RelativeLayout e uso do SharedPreferences.<br><br>
 
 ##### **Imagens da aplicação**
